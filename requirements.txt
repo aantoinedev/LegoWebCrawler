@@ -1,0 +1,4 @@
+playwright
+fake-useragent
+peewee
+pyyaml

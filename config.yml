@@ -1,0 +1,7 @@
+browser:
+  # True = Invisible, False = Visible
+  headless: True
+
+data:
+  # Data file folder
+  path: data
